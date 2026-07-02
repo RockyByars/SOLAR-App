@@ -2,8 +2,7 @@
 
 **[⬇︎ Download the latest version](../../releases/latest)**
 
-SOLAR is a native macOS app for live fill+key playback. This repo is the **download
-home** 
+SOLAR is a native macOS app for live fill+key playback.
 
 ## Install
 
